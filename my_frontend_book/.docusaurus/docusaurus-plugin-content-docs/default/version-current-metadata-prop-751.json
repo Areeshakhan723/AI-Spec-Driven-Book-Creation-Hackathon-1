@@ -1,0 +1,415 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction to AI and Robotics",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1: The Robotic Nervous System (ROS 2)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module Overview",
+            "href": "/docs/module-1-ros2-nervous-system/",
+            "docId": "module-1-ros2-nervous-system/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Introduction to ROS 2 for Physical AI",
+            "href": "/docs/module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+            "docId": "module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "ROS 2 Communication Model",
+            "href": "/docs/module-1-ros2-nervous-system/chapter-2-communication-model",
+            "docId": "module-1-ros2-nervous-system/chapter-2-communication-model",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Robot Structure with URDF",
+            "href": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure",
+            "docId": "module-1-ros2-nervous-system/chapter-3-urdf-structure",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+            "href": "/docs/module-2-digital-twin-gazebo-unity/",
+            "docId": "module-2-digital-twin-gazebo-unity/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 1: Physics Simulation with Gazebo",
+            "href": "/docs/module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo",
+            "docId": "module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 2: Digital Twins & HRI in Unity",
+            "href": "/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+            "docId": "module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 3: Sensor Simulation & Validation",
+            "href": "/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+            "docId": "module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+            "href": "/docs/module-3-isaac-ai-brain/",
+            "docId": "module-3-isaac-ai-brain/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 1: NVIDIA Isaac Sim for Photorealistic Simulation",
+            "href": "/docs/module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic",
+            "docId": "module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 2: Isaac ROS for VSLAM and Navigation",
+            "href": "/docs/module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation",
+            "docId": "module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 3: Nav2 Path Planning for Humanoid Robots",
+            "href": "/docs/module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid",
+            "docId": "module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 4: Vision-Language-Action (VLA)",
+            "href": "/docs/module-4-vla-integration/",
+            "docId": "module-4-vla-integration/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 1: VLA Foundations",
+            "href": "/docs/module-4-vla-integration/chapter-1-vla-foundations",
+            "docId": "module-4-vla-integration/chapter-1-vla-foundations",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 2: Voice-to-Action (Whisper)",
+            "href": "/docs/module-4-vla-integration/chapter-2-voice-to-action-whisper",
+            "docId": "module-4-vla-integration/chapter-2-voice-to-action-whisper",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 3: Cognitive Planning (LLMs)",
+            "href": "/docs/module-4-vla-integration/chapter-3-cognitive-planning-llms",
+            "docId": "module-4-vla-integration/chapter-3-cognitive-planning-llms",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 4: Capstone: Autonomous Humanoid",
+            "href": "/docs/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+            "docId": "module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "items": [
+          {
+            "type": "link",
+            "label": "Basic ROS 2 Node Tutorial",
+            "href": "/docs/tutorials/basic-ros2-node",
+            "docId": "tutorials/basic-ros2-node",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "URDF Tutorial",
+            "href": "/docs/tutorials/urdf-tutorial",
+            "docId": "tutorials/urdf-tutorial",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Gazebo Simulation Tutorial",
+            "href": "/docs/tutorials/gazebo-simulation-tutorial",
+            "docId": "tutorials/gazebo-simulation-tutorial",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Unity Digital Twin Tutorial",
+            "href": "/docs/tutorials/unity-digital-twin-tutorial",
+            "docId": "tutorials/unity-digital-twin-tutorial",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sensor Simulation Tutorial",
+            "href": "/docs/tutorials/sensor-simulation-tutorial",
+            "docId": "tutorials/sensor-simulation-tutorial",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Reference",
+        "items": [
+          {
+            "type": "link",
+            "label": "ROS 2 Concepts Reference",
+            "href": "/docs/reference/ros2-concepts",
+            "docId": "reference/ros2-concepts",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "URDF Specification Reference",
+            "href": "/docs/reference/urdf-reference",
+            "docId": "reference/urdf-reference",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Gazebo & Unity Sensor Reference",
+            "href": "/docs/reference/gazebo-unity-sensors-reference",
+            "docId": "reference/gazebo-unity-sensors-reference",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "FAQ",
+        "href": "/docs/faq",
+        "docId": "faq",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "faq": {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "description": "Common questions and answers about ROS 2 and humanoid robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction to AI and Robotics",
+      "description": "Welcome to the AI/Spec-Driven Book with Embedded RAG Chatbot. This educational resource focuses on ROS 2 as the middleware nervous system for humanoid robots, designed for AI students and developers entering humanoid robotics.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1-ros2-nervous-system/chapter-1-intro-to-ros2": {
+      "id": "module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+      "title": "Introduction to ROS 2 for Physical AI",
+      "description": "Learn the fundamentals of ROS 2 as a middleware nervous system for humanoid robots",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1-ros2-nervous-system/chapter-2-communication-model": {
+      "id": "module-1-ros2-nervous-system/chapter-2-communication-model",
+      "title": "ROS 2 Communication Model",
+      "description": "Learn about ROS 2 communication patterns including nodes, topics, services, and rclpy-based agent ↔ controller flow",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1-ros2-nervous-system/chapter-3-urdf-structure": {
+      "id": "module-1-ros2-nervous-system/chapter-3-urdf-structure",
+      "title": "Robot Structure with URDF",
+      "description": "Learn about URDF (Unified Robot Description Format) for humanoid robots and simulation readiness",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1-ros2-nervous-system/index": {
+      "id": "module-1-ros2-nervous-system/index",
+      "title": "Module 1: The Robotic Nervous System (ROS 2)",
+      "description": "Welcome to the first module of our AI and Robotics educational book. This module focuses on ROS 2 as the middleware nervous system for humanoid robots, designed for AI students and developers entering humanoid robotics.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo": {
+      "id": "module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo",
+      "title": "Chapter 1: Physics Simulation with Gazebo",
+      "description": "This chapter introduces Gazebo as a physics simulation environment for humanoid robotics. Gazebo provides realistic physics simulation that allows you to test robot behaviors in a safe, controlled environment before deploying to real hardware.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity": {
+      "id": "module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+      "title": "Chapter 2: Digital Twins & HRI in Unity",
+      "description": "This chapter focuses on creating high-fidelity digital twins using Unity and implementing Human-Robot Interaction (HRI) interfaces. Unity provides powerful visualization capabilities that complement physics simulation from Gazebo.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation": {
+      "id": "module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+      "title": "Chapter 3: Sensor Simulation & Validation",
+      "description": "This chapter covers sensor simulation in both Gazebo and Unity environments, and techniques for validating simulated sensors against real-world data. Accurate sensor simulation is crucial for developing and testing perception algorithms.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2-digital-twin-gazebo-unity/index": {
+      "id": "module-2-digital-twin-gazebo-unity/index",
+      "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+      "description": "Welcome to Module 2 of our ROS 2 and Humanoid Robotics educational book. This module focuses on creating digital twins using Gazebo for physics simulation and Unity for high-fidelity visualization.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic": {
+      "id": "module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic",
+      "title": "Chapter 1: NVIDIA Isaac Sim for Photorealistic Simulation",
+      "description": "This chapter introduces NVIDIA Isaac Sim as a powerful platform for creating photorealistic simulations for humanoid robots. Isaac Sim enables the creation of high-fidelity virtual environments that can be used for training AI models, testing navigation algorithms, and generating synthetic data.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation": {
+      "id": "module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation",
+      "title": "Chapter 2: Isaac ROS for VSLAM and Navigation",
+      "description": "This chapter focuses on Isaac ROS, NVIDIA's collection of GPU-accelerated perception and navigation packages that integrate with the Robot Operating System (ROS). Isaac ROS provides accelerated computer vision, visual SLAM (VSLAM), and navigation capabilities specifically designed for robotics applications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid": {
+      "id": "module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid",
+      "title": "Chapter 3: Nav2 Path Planning for Humanoid Robots",
+      "description": "This chapter focuses on adapting the Navigation2 (Nav2) stack for humanoid robots. Unlike wheeled robots, humanoid robots have unique constraints related to bipedal locomotion, balance, and step planning that require specialized path planning approaches.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3-isaac-ai-brain/index": {
+      "id": "module-3-isaac-ai-brain/index",
+      "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+      "description": "Welcome to Module 3 of our ROS 2 and Humanoid Robotics educational book. This module focuses on NVIDIA's Isaac ecosystem for creating AI-driven robotic brains, covering photorealistic simulation, accelerated perception, and intelligent navigation for humanoid robots.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4-vla-integration/chapter-1-vla-foundations": {
+      "id": "module-4-vla-integration/chapter-1-vla-foundations",
+      "title": "Chapter 1: VLA Foundations",
+      "description": "This chapter introduces the fundamental concepts of Vision-Language-Action (VLA) systems, exploring how Large Language Models (LLMs) can be integrated with robotics to create intelligent, responsive robotic systems that understand and execute natural language commands.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4-vla-integration/chapter-2-voice-to-action-whisper": {
+      "id": "module-4-vla-integration/chapter-2-voice-to-action-whisper",
+      "title": "Chapter 2: Voice-to-Action (Whisper)",
+      "description": "This chapter focuses on implementing voice command processing using OpenAI Whisper for robotics applications. You'll learn how to convert spoken commands into text that can be processed by LLMs and converted to robotic actions.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4-vla-integration/chapter-3-cognitive-planning-llms": {
+      "id": "module-4-vla-integration/chapter-3-cognitive-planning-llms",
+      "title": "Chapter 3: Cognitive Planning (LLMs)",
+      "description": "This chapter focuses on using Large Language Models (LLMs) for cognitive planning in robotics. You'll learn how to translate natural language commands into detailed action plans that can be executed by ROS 2 systems, enabling robots to understand and execute complex, multi-step tasks.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4-vla-integration/chapter-4-capstone-autonomous-humanoid": {
+      "id": "module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+      "title": "Chapter 4: Capstone: Autonomous Humanoid",
+      "description": "This capstone chapter brings together all the components learned in previous chapters to create a complete autonomous humanoid system. The robot will receive voice commands, plan complex multi-step tasks using LLMs, navigate through environments, identify objects using computer vision, and manipulate them.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4-vla-integration/index": {
+      "id": "module-4-vla-integration/index",
+      "title": "Module 4: Vision-Language-Action (VLA)",
+      "description": "Welcome to Module 4 of our ROS 2 and Humanoid Robotics educational book. This module focuses on the convergence of Large Language Models (LLMs) and Robotics, specifically on Vision-Language-Action systems that enable robots to understand natural language commands and execute complex tasks.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/gazebo-unity-sensors-reference": {
+      "id": "reference/gazebo-unity-sensors-reference",
+      "title": "Gazebo & Unity Sensor Reference",
+      "description": "This reference guide provides comprehensive information about sensor simulation in both Gazebo and Unity environments for humanoid robotics applications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/ros2-concepts": {
+      "id": "reference/ros2-concepts",
+      "title": "ROS 2 Concepts Reference",
+      "description": "Comprehensive reference for ROS 2 core concepts and terminology",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/urdf-reference": {
+      "id": "reference/urdf-reference",
+      "title": "URDF Specification Reference",
+      "description": "Comprehensive reference for URDF (Unified Robot Description Format) specification",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/basic-ros2-node": {
+      "id": "tutorials/basic-ros2-node",
+      "title": "Basic ROS 2 Node Tutorial",
+      "description": "Learn how to create a basic ROS 2 node using rclpy",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/gazebo-simulation-tutorial": {
+      "id": "tutorials/gazebo-simulation-tutorial",
+      "title": "Gazebo Simulation Tutorial",
+      "description": "This tutorial will guide you through setting up and running a basic Gazebo simulation for a humanoid robot.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/sensor-simulation-tutorial": {
+      "id": "tutorials/sensor-simulation-tutorial",
+      "title": "Sensor Simulation Tutorial",
+      "description": "This tutorial will guide you through implementing and validating various sensor simulations in both Gazebo and Unity environments, focusing on LiDAR, cameras, and IMU sensors for humanoid robots.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/unity-digital-twin-tutorial": {
+      "id": "tutorials/unity-digital-twin-tutorial",
+      "title": "Unity Digital Twin Tutorial",
+      "description": "This tutorial will guide you through creating a digital twin of a humanoid robot in Unity and implementing basic Human-Robot Interaction (HRI) interfaces.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/urdf-tutorial": {
+      "id": "tutorials/urdf-tutorial",
+      "title": "URDF Tutorial",
+      "description": "Learn how to create and validate URDF files for humanoid robots",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "label": "robot-description",
+  "permalink": "/docs/tags/robot-description",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "module-1-ros2-nervous-system/chapter-3-urdf-structure",
+      "title": "Robot Structure with URDF",
+      "description": "Learn about URDF (Unified Robot Description Format) for humanoid robots and simulation readiness",
+      "permalink": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure"
+    },
+    {
+      "id": "reference/urdf-reference",
+      "title": "URDF Specification Reference",
+      "description": "Comprehensive reference for URDF (Unified Robot Description Format) specification",
+      "permalink": "/docs/reference/urdf-reference"
+    },
+    {
+      "id": "tutorials/urdf-tutorial",
+      "title": "URDF Tutorial",
+      "description": "Learn how to create and validate URDF files for humanoid robots",
+      "permalink": "/docs/tutorials/urdf-tutorial"
+    }
+  ],
+  "unlisted": false
+}

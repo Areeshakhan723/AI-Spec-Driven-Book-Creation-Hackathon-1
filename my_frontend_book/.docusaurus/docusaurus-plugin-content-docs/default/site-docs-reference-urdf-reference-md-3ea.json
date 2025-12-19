@@ -1,0 +1,63 @@
+{
+  "id": "reference/urdf-reference",
+  "title": "URDF Specification Reference",
+  "description": "Comprehensive reference for URDF (Unified Robot Description Format) specification",
+  "source": "@site/docs/reference/urdf-reference.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/urdf-reference",
+  "permalink": "/docs/reference/urdf-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/urdf-reference.md",
+  "tags": [
+    {
+      "label": "urdf",
+      "permalink": "/docs/tags/urdf"
+    },
+    {
+      "label": "reference",
+      "permalink": "/docs/tags/reference"
+    },
+    {
+      "label": "robot-description",
+      "permalink": "/docs/tags/robot-description"
+    },
+    {
+      "label": "xml",
+      "permalink": "/docs/tags/xml"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "URDF Specification Reference",
+    "description": "Comprehensive reference for URDF (Unified Robot Description Format) specification",
+    "sidebar_label": "URDF Specification Reference",
+    "sidebar_position": 8,
+    "tags": [
+      "urdf",
+      "reference",
+      "robot-description",
+      "xml"
+    ],
+    "authors": [
+      "Spec-Kit Plus Team"
+    ],
+    "keywords": [
+      "URDF",
+      "robot description",
+      "specification",
+      "xml",
+      "reference"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Concepts Reference",
+    "permalink": "/docs/reference/ros2-concepts"
+  },
+  "next": {
+    "title": "Gazebo & Unity Sensor Reference",
+    "permalink": "/docs/reference/gazebo-unity-sensors-reference"
+  }
+}

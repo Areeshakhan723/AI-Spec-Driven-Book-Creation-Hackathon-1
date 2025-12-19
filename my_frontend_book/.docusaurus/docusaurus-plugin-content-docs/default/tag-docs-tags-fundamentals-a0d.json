@@ -1,0 +1,15 @@
+{
+  "label": "fundamentals",
+  "permalink": "/docs/tags/fundamentals",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+      "title": "Introduction to ROS 2 for Physical AI",
+      "description": "Learn the fundamentals of ROS 2 as a middleware nervous system for humanoid robots",
+      "permalink": "/docs/module-1-ros2-nervous-system/chapter-1-intro-to-ros2"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "module-1-ros2-nervous-system/chapter-3-urdf-structure",
+  "title": "Robot Structure with URDF",
+  "description": "Learn about URDF (Unified Robot Description Format) for humanoid robots and simulation readiness",
+  "source": "@site/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure.md",
+  "sourceDirName": "module-1-ros2-nervous-system",
+  "slug": "/module-1-ros2-nervous-system/chapter-3-urdf-structure",
+  "permalink": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure.md",
+  "tags": [
+    {
+      "label": "urdf",
+      "permalink": "/docs/tags/urdf"
+    },
+    {
+      "label": "robot-description",
+      "permalink": "/docs/tags/robot-description"
+    },
+    {
+      "label": "humanoid-robotics",
+      "permalink": "/docs/tags/humanoid-robotics"
+    },
+    {
+      "label": "simulation",
+      "permalink": "/docs/tags/simulation"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Robot Structure with URDF",
+    "description": "Learn about URDF (Unified Robot Description Format) for humanoid robots and simulation readiness",
+    "sidebar_label": "Robot Structure with URDF",
+    "sidebar_position": 4,
+    "tags": [
+      "urdf",
+      "robot-description",
+      "humanoid-robotics",
+      "simulation"
+    ],
+    "authors": [
+      "Spec-Kit Plus Team"
+    ],
+    "keywords": [
+      "URDF",
+      "robot description",
+      "humanoid",
+      "simulation",
+      "links",
+      "joints"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Communication Model",
+    "permalink": "/docs/module-1-ros2-nervous-system/chapter-2-communication-model"
+  },
+  "next": {
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/docs/module-2-digital-twin-gazebo-unity/"
+  }
+}

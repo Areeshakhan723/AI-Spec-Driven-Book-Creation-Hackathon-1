@@ -1,0 +1,15 @@
+{
+  "label": "concepts",
+  "permalink": "/docs/tags/concepts",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "reference/ros2-concepts",
+      "title": "ROS 2 Concepts Reference",
+      "description": "Comprehensive reference for ROS 2 core concepts and terminology",
+      "permalink": "/docs/reference/ros2-concepts"
+    }
+  ],
+  "unlisted": false
+}

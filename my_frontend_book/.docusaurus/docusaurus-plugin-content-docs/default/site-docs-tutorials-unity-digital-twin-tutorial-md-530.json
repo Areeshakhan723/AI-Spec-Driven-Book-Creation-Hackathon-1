@@ -1,0 +1,28 @@
+{
+  "id": "tutorials/unity-digital-twin-tutorial",
+  "title": "Unity Digital Twin Tutorial",
+  "description": "This tutorial will guide you through creating a digital twin of a humanoid robot in Unity and implementing basic Human-Robot Interaction (HRI) interfaces.",
+  "source": "@site/docs/tutorials/unity-digital-twin-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/unity-digital-twin-tutorial",
+  "permalink": "/docs/tutorials/unity-digital-twin-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/unity-digital-twin-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Unity Digital Twin Tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gazebo Simulation Tutorial",
+    "permalink": "/docs/tutorials/gazebo-simulation-tutorial"
+  },
+  "next": {
+    "title": "Sensor Simulation Tutorial",
+    "permalink": "/docs/tutorials/sensor-simulation-tutorial"
+  }
+}

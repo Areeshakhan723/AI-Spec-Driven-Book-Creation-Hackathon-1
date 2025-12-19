@@ -1,0 +1,15 @@
+{
+  "label": "xml",
+  "permalink": "/docs/tags/xml",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "reference/urdf-reference",
+      "title": "URDF Specification Reference",
+      "description": "Comprehensive reference for URDF (Unified Robot Description Format) specification",
+      "permalink": "/docs/reference/urdf-reference"
+    }
+  ],
+  "unlisted": false
+}

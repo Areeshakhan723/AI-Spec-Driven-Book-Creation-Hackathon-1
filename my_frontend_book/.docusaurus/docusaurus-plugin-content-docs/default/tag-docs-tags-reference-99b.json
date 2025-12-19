@@ -1,0 +1,21 @@
+{
+  "label": "reference",
+  "permalink": "/docs/tags/reference",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "reference/ros2-concepts",
+      "title": "ROS 2 Concepts Reference",
+      "description": "Comprehensive reference for ROS 2 core concepts and terminology",
+      "permalink": "/docs/reference/ros2-concepts"
+    },
+    {
+      "id": "reference/urdf-reference",
+      "title": "URDF Specification Reference",
+      "description": "Comprehensive reference for URDF (Unified Robot Description Format) specification",
+      "permalink": "/docs/reference/urdf-reference"
+    }
+  ],
+  "unlisted": false
+}

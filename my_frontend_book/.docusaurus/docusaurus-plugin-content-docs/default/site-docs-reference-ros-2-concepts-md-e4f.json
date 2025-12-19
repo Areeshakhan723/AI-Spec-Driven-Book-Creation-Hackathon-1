@@ -1,0 +1,63 @@
+{
+  "id": "reference/ros2-concepts",
+  "title": "ROS 2 Concepts Reference",
+  "description": "Comprehensive reference for ROS 2 core concepts and terminology",
+  "source": "@site/docs/reference/ros2-concepts.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/ros2-concepts",
+  "permalink": "/docs/reference/ros2-concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/ros2-concepts.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/docs/tags/ros-2"
+    },
+    {
+      "label": "reference",
+      "permalink": "/docs/tags/reference"
+    },
+    {
+      "label": "concepts",
+      "permalink": "/docs/tags/concepts"
+    },
+    {
+      "label": "terminology",
+      "permalink": "/docs/tags/terminology"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "ROS 2 Concepts Reference",
+    "description": "Comprehensive reference for ROS 2 core concepts and terminology",
+    "sidebar_label": "ROS 2 Concepts Reference",
+    "sidebar_position": 7,
+    "tags": [
+      "ros2",
+      "reference",
+      "concepts",
+      "terminology"
+    ],
+    "authors": [
+      "Spec-Kit Plus Team"
+    ],
+    "keywords": [
+      "ROS 2",
+      "concepts",
+      "reference",
+      "terminology",
+      "middleware"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensor Simulation Tutorial",
+    "permalink": "/docs/tutorials/sensor-simulation-tutorial"
+  },
+  "next": {
+    "title": "URDF Specification Reference",
+    "permalink": "/docs/reference/urdf-reference"
+  }
+}

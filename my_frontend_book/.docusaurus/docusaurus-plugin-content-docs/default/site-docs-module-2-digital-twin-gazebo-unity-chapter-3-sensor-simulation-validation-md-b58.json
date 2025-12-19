@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+  "title": "Chapter 3: Sensor Simulation & Validation",
+  "description": "This chapter covers sensor simulation in both Gazebo and Unity environments, and techniques for validating simulated sensors against real-world data. Accurate sensor simulation is crucial for developing and testing perception algorithms.",
+  "source": "@site/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation.md",
+  "sourceDirName": "module-2-digital-twin-gazebo-unity",
+  "slug": "/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+  "permalink": "/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3: Sensor Simulation & Validation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Digital Twins & HRI in Unity",
+    "permalink": "/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity"
+  },
+  "next": {
+    "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/module-3-isaac-ai-brain/"
+  }
+}

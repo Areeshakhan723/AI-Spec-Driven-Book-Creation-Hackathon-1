@@ -1,0 +1,28 @@
+{
+  "id": "tutorials/gazebo-simulation-tutorial",
+  "title": "Gazebo Simulation Tutorial",
+  "description": "This tutorial will guide you through setting up and running a basic Gazebo simulation for a humanoid robot.",
+  "source": "@site/docs/tutorials/gazebo-simulation-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/gazebo-simulation-tutorial",
+  "permalink": "/docs/tutorials/gazebo-simulation-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/gazebo-simulation-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Gazebo Simulation Tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF Tutorial",
+    "permalink": "/docs/tutorials/urdf-tutorial"
+  },
+  "next": {
+    "title": "Unity Digital Twin Tutorial",
+    "permalink": "/docs/tutorials/unity-digital-twin-tutorial"
+  }
+}

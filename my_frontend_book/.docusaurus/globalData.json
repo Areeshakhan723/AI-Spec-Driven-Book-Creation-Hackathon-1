@@ -1,0 +1,163 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "faq",
+              "path": "/docs/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+              "path": "/docs/module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2-nervous-system/chapter-2-communication-model",
+              "path": "/docs/module-1-ros2-nervous-system/chapter-2-communication-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2-nervous-system/chapter-3-urdf-structure",
+              "path": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2-nervous-system/index",
+              "path": "/docs/module-1-ros2-nervous-system/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo",
+              "path": "/docs/module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+              "path": "/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+              "path": "/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin-gazebo-unity/index",
+              "path": "/docs/module-2-digital-twin-gazebo-unity/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic",
+              "path": "/docs/module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation",
+              "path": "/docs/module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid",
+              "path": "/docs/module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac-ai-brain/index",
+              "path": "/docs/module-3-isaac-ai-brain/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-integration/chapter-1-vla-foundations",
+              "path": "/docs/module-4-vla-integration/chapter-1-vla-foundations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-integration/chapter-2-voice-to-action-whisper",
+              "path": "/docs/module-4-vla-integration/chapter-2-voice-to-action-whisper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-integration/chapter-3-cognitive-planning-llms",
+              "path": "/docs/module-4-vla-integration/chapter-3-cognitive-planning-llms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+              "path": "/docs/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-integration/index",
+              "path": "/docs/module-4-vla-integration/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/gazebo-unity-sensors-reference",
+              "path": "/docs/reference/gazebo-unity-sensors-reference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/ros2-concepts",
+              "path": "/docs/reference/ros2-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/urdf-reference",
+              "path": "/docs/reference/urdf-reference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/basic-ros2-node",
+              "path": "/docs/tutorials/basic-ros2-node",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/gazebo-simulation-tutorial",
+              "path": "/docs/tutorials/gazebo-simulation-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/sensor-simulation-tutorial",
+              "path": "/docs/tutorials/sensor-simulation-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/unity-digital-twin-tutorial",
+              "path": "/docs/tutorials/unity-digital-twin-tutorial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/urdf-tutorial",
+              "path": "/docs/tutorials/urdf-tutorial",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

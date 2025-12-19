@@ -1,0 +1,33 @@
+{
+  "label": "humanoid-robotics",
+  "permalink": "/docs/tags/humanoid-robotics",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "description": "Common questions and answers about ROS 2 and humanoid robotics",
+      "permalink": "/docs/faq"
+    },
+    {
+      "id": "module-1-ros2-nervous-system/chapter-1-intro-to-ros2",
+      "title": "Introduction to ROS 2 for Physical AI",
+      "description": "Learn the fundamentals of ROS 2 as a middleware nervous system for humanoid robots",
+      "permalink": "/docs/module-1-ros2-nervous-system/chapter-1-intro-to-ros2"
+    },
+    {
+      "id": "module-1-ros2-nervous-system/chapter-3-urdf-structure",
+      "title": "Robot Structure with URDF",
+      "description": "Learn about URDF (Unified Robot Description Format) for humanoid robots and simulation readiness",
+      "permalink": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure"
+    },
+    {
+      "id": "tutorials/urdf-tutorial",
+      "title": "URDF Tutorial",
+      "description": "Learn how to create and validate URDF files for humanoid robots",
+      "permalink": "/docs/tutorials/urdf-tutorial"
+    }
+  ],
+  "unlisted": false
+}

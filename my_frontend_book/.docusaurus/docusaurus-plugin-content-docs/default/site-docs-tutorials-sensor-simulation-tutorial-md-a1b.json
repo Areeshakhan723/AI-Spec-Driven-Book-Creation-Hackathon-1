@@ -1,0 +1,28 @@
+{
+  "id": "tutorials/sensor-simulation-tutorial",
+  "title": "Sensor Simulation Tutorial",
+  "description": "This tutorial will guide you through implementing and validating various sensor simulations in both Gazebo and Unity environments, focusing on LiDAR, cameras, and IMU sensors for humanoid robots.",
+  "source": "@site/docs/tutorials/sensor-simulation-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sensor-simulation-tutorial",
+  "permalink": "/docs/tutorials/sensor-simulation-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/sensor-simulation-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Sensor Simulation Tutorial"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity Digital Twin Tutorial",
+    "permalink": "/docs/tutorials/unity-digital-twin-tutorial"
+  },
+  "next": {
+    "title": "ROS 2 Concepts Reference",
+    "permalink": "/docs/reference/ros2-concepts"
+  }
+}

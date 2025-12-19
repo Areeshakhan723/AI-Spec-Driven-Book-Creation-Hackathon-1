@@ -1,0 +1,261 @@
+{
+  "/__docusaurus/debug-2ad": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    }
+  },
+  "/__docusaurus/debug/config-979": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    }
+  },
+  "/__docusaurus/debug/content-4c5": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-cdc": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    }
+  },
+  "/__docusaurus/debug/metadata-f62": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    }
+  },
+  "/__docusaurus/debug/registry-3ce": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    }
+  },
+  "/__docusaurus/debug/routes-674": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-8-d-9-6ce"
+    }
+  },
+  "/docs-c24": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-40-d-d7f"
+    }
+  },
+  "/docs-077": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs/tags-0cc": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "tags": "tags---docs-tags-559-5e5"
+  },
+  "/docs/tags/communication-65f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-communication-0-ae-568"
+  },
+  "/docs/tags/concepts-d48": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-conceptsc-08-8b2"
+  },
+  "/docs/tags/faq-3c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-faq-35-a-d80"
+  },
+  "/docs/tags/fundamentals-f89": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-fundamentalsb-3-f-c86"
+  },
+  "/docs/tags/humanoid-robotics-9b4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-humanoid-roboticsdae-c47"
+  },
+  "/docs/tags/middleware-d85": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-middlewaredf-6-f4f"
+  },
+  "/docs/tags/node-c2b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-node-1-e-6-e29"
+  },
+  "/docs/tags/nodes-ea0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nodes-936-54b"
+  },
+  "/docs/tags/python-d96": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-pythond-01-9b3"
+  },
+  "/docs/tags/rclpy-72b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-rclpy-1-e-6-0d5"
+  },
+  "/docs/tags/reference-8ce": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-reference-13-f-c56"
+  },
+  "/docs/tags/robot-description-7e8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-robot-descriptioneec-6e0"
+  },
+  "/docs/tags/ros-2-51a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ros-2675-1d5"
+  },
+  "/docs/tags/services-2d2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-servicesfcc-6ac"
+  },
+  "/docs/tags/simulation-db8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-simulationcd-0-30d"
+  },
+  "/docs/tags/terminology-5fb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-terminologyf-9-c-9e0"
+  },
+  "/docs/tags/topics-5c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-topics-85-a-a70"
+  },
+  "/docs/tags/troubleshooting-e48": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-troubleshooting-33-a-411"
+  },
+  "/docs/tags/tutorial-c37": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-tutorialcf-6-93d"
+  },
+  "/docs/tags/urdf-787": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-urdf-172-cdb"
+  },
+  "/docs/tags/xml-e2d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-xml-8-d-9-583"
+  },
+  "/docs-fe7": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/faq-e79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-faq-048-db5"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/module-1-ros2-nervous-system/-94d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-nervous-system-2-af-238"
+  },
+  "/docs/module-1-ros2-nervous-system/chapter-1-intro-to-ros2-1f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-nervous-system-chapter-1-intro-to-ros-284-e-785"
+  },
+  "/docs/module-1-ros2-nervous-system/chapter-2-communication-model-127": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-nervous-system-chapter-2-communication-model-579-2e2"
+  },
+  "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure-651": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-nervous-system-chapter-3-urdf-structurefe-8-c52"
+  },
+  "/docs/module-2-digital-twin-gazebo-unity/-4d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-gazebo-unity-b-49-058"
+  },
+  "/docs/module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo-61a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-gazebo-unity-chapter-1-physics-simulation-gazeboab-2-a80"
+  },
+  "/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity-3a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-gazebo-unity-chapter-2-digital-twins-unity-6-bc-8f6"
+  },
+  "/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation-ee8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-digital-twin-gazebo-unity-chapter-3-sensor-simulation-validationb-58-cd3"
+  },
+  "/docs/module-3-isaac-ai-brain/-79e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-ai-brain-005-54c"
+  },
+  "/docs/module-3-isaac-ai-brain/chapter-1-isaac-sim-photorealistic-7a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-ai-brain-chapter-1-isaac-sim-photorealistic-3-a-6-478"
+  },
+  "/docs/module-3-isaac-ai-brain/chapter-2-isaac-ros-vslam-navigation-c77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-ai-brain-chapter-2-isaac-ros-vslam-navigation-1-b-3-60d"
+  },
+  "/docs/module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid-975": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-isaac-ai-brain-chapter-3-nav-2-path-planning-humanoid-4-ca-785"
+  },
+  "/docs/module-4-vla-integration/-d67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-integration-5-d-4-028"
+  },
+  "/docs/module-4-vla-integration/chapter-1-vla-foundations-6c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-integration-chapter-1-vla-foundations-3-bc-d9c"
+  },
+  "/docs/module-4-vla-integration/chapter-2-voice-to-action-whisper-88d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-integration-chapter-2-voice-to-action-whisper-9-b-0-548"
+  },
+  "/docs/module-4-vla-integration/chapter-3-cognitive-planning-llms-28d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-integration-chapter-3-cognitive-planning-llmsffc-fc3"
+  },
+  "/docs/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid-c76": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-vla-integration-chapter-4-capstone-autonomous-humanoid-6-d-3-7f0"
+  },
+  "/docs/reference/gazebo-unity-sensors-reference-6c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-gazebo-unity-sensors-reference-224-7af"
+  },
+  "/docs/reference/ros2-concepts-033": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-ros-2-conceptse-4-f-59f"
+  },
+  "/docs/reference/urdf-reference-1df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-reference-urdf-reference-3-ea-e66"
+  },
+  "/docs/tutorials/basic-ros2-node-3de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-basic-ros-2-nodefff-a7f"
+  },
+  "/docs/tutorials/gazebo-simulation-tutorial-cc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-gazebo-simulation-tutorial-746-cf0"
+  },
+  "/docs/tutorials/sensor-simulation-tutorial-242": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-sensor-simulation-tutoriala-1-b-8f2"
+  },
+  "/docs/tutorials/unity-digital-twin-tutorial-e09": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-unity-digital-twin-tutorial-530-ec3"
+  },
+  "/docs/tutorials/urdf-tutorial-30b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-urdf-tutorial-0-df-303"
+  },
+  "/-0ea": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---b-04-29b"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

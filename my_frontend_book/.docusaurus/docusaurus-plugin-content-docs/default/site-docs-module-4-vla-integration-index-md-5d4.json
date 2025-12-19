@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla-integration/index",
+  "title": "Module 4: Vision-Language-Action (VLA)",
+  "description": "Welcome to Module 4 of our ROS 2 and Humanoid Robotics educational book. This module focuses on the convergence of Large Language Models (LLMs) and Robotics, specifically on Vision-Language-Action systems that enable robots to understand natural language commands and execute complex tasks.",
+  "source": "@site/docs/module-4-vla-integration/index.md",
+  "sourceDirName": "module-4-vla-integration",
+  "slug": "/module-4-vla-integration/",
+  "permalink": "/docs/module-4-vla-integration/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-integration/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 4: Vision-Language-Action (VLA)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Nav2 Path Planning for Humanoid Robots",
+    "permalink": "/docs/module-3-isaac-ai-brain/chapter-3-nav2-path-planning-humanoid"
+  },
+  "next": {
+    "title": "Chapter 1: VLA Foundations",
+    "permalink": "/docs/module-4-vla-integration/chapter-1-vla-foundations"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla-integration/chapter-1-vla-foundations",
+  "title": "Chapter 1: VLA Foundations",
+  "description": "This chapter introduces the fundamental concepts of Vision-Language-Action (VLA) systems, exploring how Large Language Models (LLMs) can be integrated with robotics to create intelligent, responsive robotic systems that understand and execute natural language commands.",
+  "source": "@site/docs/module-4-vla-integration/chapter-1-vla-foundations.md",
+  "sourceDirName": "module-4-vla-integration",
+  "slug": "/module-4-vla-integration/chapter-1-vla-foundations",
+  "permalink": "/docs/module-4-vla-integration/chapter-1-vla-foundations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-integration/chapter-1-vla-foundations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 1: VLA Foundations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/module-4-vla-integration/"
+  },
+  "next": {
+    "title": "Chapter 2: Voice-to-Action (Whisper)",
+    "permalink": "/docs/module-4-vla-integration/chapter-2-voice-to-action-whisper"
+  }
+}

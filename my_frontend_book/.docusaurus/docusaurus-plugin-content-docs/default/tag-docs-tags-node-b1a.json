@@ -1,0 +1,15 @@
+{
+  "label": "node",
+  "permalink": "/docs/tags/node",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "tutorials/basic-ros2-node",
+      "title": "Basic ROS 2 Node Tutorial",
+      "description": "Learn how to create a basic ROS 2 node using rclpy",
+      "permalink": "/docs/tutorials/basic-ros2-node"
+    }
+  ],
+  "unlisted": false
+}

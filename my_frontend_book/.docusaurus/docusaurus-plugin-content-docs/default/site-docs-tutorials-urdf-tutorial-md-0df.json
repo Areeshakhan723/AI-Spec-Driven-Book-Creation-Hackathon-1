@@ -1,0 +1,63 @@
+{
+  "id": "tutorials/urdf-tutorial",
+  "title": "URDF Tutorial",
+  "description": "Learn how to create and validate URDF files for humanoid robots",
+  "source": "@site/docs/tutorials/urdf-tutorial.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/urdf-tutorial",
+  "permalink": "/docs/tutorials/urdf-tutorial",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/urdf-tutorial.md",
+  "tags": [
+    {
+      "label": "urdf",
+      "permalink": "/docs/tags/urdf"
+    },
+    {
+      "label": "tutorial",
+      "permalink": "/docs/tags/tutorial"
+    },
+    {
+      "label": "robot-description",
+      "permalink": "/docs/tags/robot-description"
+    },
+    {
+      "label": "humanoid-robotics",
+      "permalink": "/docs/tags/humanoid-robotics"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "URDF Tutorial",
+    "description": "Learn how to create and validate URDF files for humanoid robots",
+    "sidebar_label": "URDF Tutorial",
+    "sidebar_position": 6,
+    "tags": [
+      "urdf",
+      "tutorial",
+      "robot-description",
+      "humanoid-robotics"
+    ],
+    "authors": [
+      "Spec-Kit Plus Team"
+    ],
+    "keywords": [
+      "URDF",
+      "tutorial",
+      "robot description",
+      "humanoid",
+      "xml"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic ROS 2 Node Tutorial",
+    "permalink": "/docs/tutorials/basic-ros2-node"
+  },
+  "next": {
+    "title": "Gazebo Simulation Tutorial",
+    "permalink": "/docs/tutorials/gazebo-simulation-tutorial"
+  }
+}

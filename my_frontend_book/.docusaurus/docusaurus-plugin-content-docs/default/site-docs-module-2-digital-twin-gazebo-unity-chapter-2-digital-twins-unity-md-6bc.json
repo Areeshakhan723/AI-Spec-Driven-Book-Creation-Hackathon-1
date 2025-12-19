@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+  "title": "Chapter 2: Digital Twins & HRI in Unity",
+  "description": "This chapter focuses on creating high-fidelity digital twins using Unity and implementing Human-Robot Interaction (HRI) interfaces. Unity provides powerful visualization capabilities that complement physics simulation from Gazebo.",
+  "source": "@site/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity.md",
+  "sourceDirName": "module-2-digital-twin-gazebo-unity",
+  "slug": "/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+  "permalink": "/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin-gazebo-unity/chapter-2-digital-twins-unity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 2: Digital Twins & HRI in Unity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Physics Simulation with Gazebo",
+    "permalink": "/docs/module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo"
+  },
+  "next": {
+    "title": "Chapter 3: Sensor Simulation & Validation",
+    "permalink": "/docs/module-2-digital-twin-gazebo-unity/chapter-3-sensor-simulation-validation"
+  }
+}

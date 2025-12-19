@@ -1,0 +1,15 @@
+{
+  "label": "troubleshooting",
+  "permalink": "/docs/tags/troubleshooting",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "description": "Common questions and answers about ROS 2 and humanoid robotics",
+      "permalink": "/docs/faq"
+    }
+  ],
+  "unlisted": false
+}

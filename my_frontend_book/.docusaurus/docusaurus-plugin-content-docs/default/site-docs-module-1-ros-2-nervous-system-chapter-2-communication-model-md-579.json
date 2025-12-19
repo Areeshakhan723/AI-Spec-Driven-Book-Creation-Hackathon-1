@@ -1,0 +1,76 @@
+{
+  "id": "module-1-ros2-nervous-system/chapter-2-communication-model",
+  "title": "ROS 2 Communication Model",
+  "description": "Learn about ROS 2 communication patterns including nodes, topics, services, and rclpy-based agent ↔ controller flow",
+  "source": "@site/docs/module-1-ros2-nervous-system/chapter-2-communication-model.md",
+  "sourceDirName": "module-1-ros2-nervous-system",
+  "slug": "/module-1-ros2-nervous-system/chapter-2-communication-model",
+  "permalink": "/docs/module-1-ros2-nervous-system/chapter-2-communication-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-ros2-nervous-system/chapter-2-communication-model.md",
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/docs/tags/ros-2"
+    },
+    {
+      "label": "communication",
+      "permalink": "/docs/tags/communication"
+    },
+    {
+      "label": "nodes",
+      "permalink": "/docs/tags/nodes"
+    },
+    {
+      "label": "topics",
+      "permalink": "/docs/tags/topics"
+    },
+    {
+      "label": "services",
+      "permalink": "/docs/tags/services"
+    },
+    {
+      "label": "rclpy",
+      "permalink": "/docs/tags/rclpy"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "ROS 2 Communication Model",
+    "description": "Learn about ROS 2 communication patterns including nodes, topics, services, and rclpy-based agent ↔ controller flow",
+    "sidebar_label": "ROS 2 Communication Model",
+    "sidebar_position": 3,
+    "tags": [
+      "ros2",
+      "communication",
+      "nodes",
+      "topics",
+      "services",
+      "rclpy"
+    ],
+    "authors": [
+      "Spec-Kit Plus Team"
+    ],
+    "keywords": [
+      "ROS 2",
+      "communication",
+      "nodes",
+      "topics",
+      "services",
+      "rclpy",
+      "agent",
+      "controller"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to ROS 2 for Physical AI",
+    "permalink": "/docs/module-1-ros2-nervous-system/chapter-1-intro-to-ros2"
+  },
+  "next": {
+    "title": "Robot Structure with URDF",
+    "permalink": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure"
+  }
+}

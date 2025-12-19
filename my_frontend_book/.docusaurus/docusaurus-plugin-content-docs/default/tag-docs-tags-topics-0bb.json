@@ -1,0 +1,15 @@
+{
+  "label": "topics",
+  "permalink": "/docs/tags/topics",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "module-1-ros2-nervous-system/chapter-2-communication-model",
+      "title": "ROS 2 Communication Model",
+      "description": "Learn about ROS 2 communication patterns including nodes, topics, services, and rclpy-based agent ↔ controller flow",
+      "permalink": "/docs/module-1-ros2-nervous-system/chapter-2-communication-model"
+    }
+  ],
+  "unlisted": false
+}

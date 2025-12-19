@@ -1,0 +1,28 @@
+{
+  "id": "module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+  "title": "Chapter 4: Capstone: Autonomous Humanoid",
+  "description": "This capstone chapter brings together all the components learned in previous chapters to create a complete autonomous humanoid system. The robot will receive voice commands, plan complex multi-step tasks using LLMs, navigate through environments, identify objects using computer vision, and manipulate them.",
+  "source": "@site/docs/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid.md",
+  "sourceDirName": "module-4-vla-integration",
+  "slug": "/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+  "permalink": "/docs/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-4-vla-integration/chapter-4-capstone-autonomous-humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Chapter 4: Capstone: Autonomous Humanoid"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Cognitive Planning (LLMs)",
+    "permalink": "/docs/module-4-vla-integration/chapter-3-cognitive-planning-llms"
+  },
+  "next": {
+    "title": "Basic ROS 2 Node Tutorial",
+    "permalink": "/docs/tutorials/basic-ros2-node"
+  }
+}

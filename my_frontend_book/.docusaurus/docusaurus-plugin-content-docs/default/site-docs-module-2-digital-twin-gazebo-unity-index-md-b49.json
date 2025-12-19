@@ -1,0 +1,28 @@
+{
+  "id": "module-2-digital-twin-gazebo-unity/index",
+  "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "description": "Welcome to Module 2 of our ROS 2 and Humanoid Robotics educational book. This module focuses on creating digital twins using Gazebo for physics simulation and Unity for high-fidelity visualization.",
+  "source": "@site/docs/module-2-digital-twin-gazebo-unity/index.md",
+  "sourceDirName": "module-2-digital-twin-gazebo-unity",
+  "slug": "/module-2-digital-twin-gazebo-unity/",
+  "permalink": "/docs/module-2-digital-twin-gazebo-unity/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-digital-twin-gazebo-unity/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 2: The Digital Twin (Gazebo & Unity)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Structure with URDF",
+    "permalink": "/docs/module-1-ros2-nervous-system/chapter-3-urdf-structure"
+  },
+  "next": {
+    "title": "Chapter 1: Physics Simulation with Gazebo",
+    "permalink": "/docs/module-2-digital-twin-gazebo-unity/chapter-1-physics-simulation-gazebo"
+  }
+}

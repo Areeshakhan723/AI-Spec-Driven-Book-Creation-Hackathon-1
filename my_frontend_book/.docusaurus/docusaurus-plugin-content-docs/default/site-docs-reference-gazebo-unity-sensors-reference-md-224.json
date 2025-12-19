@@ -1,0 +1,28 @@
+{
+  "id": "reference/gazebo-unity-sensors-reference",
+  "title": "Gazebo & Unity Sensor Reference",
+  "description": "This reference guide provides comprehensive information about sensor simulation in both Gazebo and Unity environments for humanoid robotics applications.",
+  "source": "@site/docs/reference/gazebo-unity-sensors-reference.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/gazebo-unity-sensors-reference",
+  "permalink": "/docs/reference/gazebo-unity-sensors-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference/gazebo-unity-sensors-reference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "Gazebo & Unity Sensor Reference"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF Specification Reference",
+    "permalink": "/docs/reference/urdf-reference"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/faq"
+  }
+}
